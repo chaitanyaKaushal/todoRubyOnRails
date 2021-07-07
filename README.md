@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is Todo List web application using ruby on rails.
 
-Things you may want to cover:
+app/assets/images/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![First Page View](app/assets/images/firstPage.png)
+![Adding items to a todo list](app/assets/images/pic1.png)
+![Task is completed](app/assets/images/pic2.png)
+![Creating a new todo list](app/assets/images/pic3.png)
