@@ -2,7 +2,6 @@
 
 This is Todo List web application using ruby on rails.
 
-app/assets/images/
 
 ![First Page View](app/assets/images/firstPage.png)
 ![Adding items to a todo list](app/assets/images/pic1.png)
